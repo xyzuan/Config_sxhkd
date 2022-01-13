@@ -8,7 +8,7 @@ super + t
 
 # Rofi App Launcher
 super + z
-	sh ~/.config/rofi/bin/launcher_text
+	bash ~/.config/rofi/menu/menu.sh
 
 ##---------- System ----------##
 
